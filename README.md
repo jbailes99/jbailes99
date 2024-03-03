@@ -1,16 +1,33 @@
-### Hi there 👋
+# Hey there, fellow coder! 👋
 
-<!--
-**jbailes99/jbailes99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Jake, a passionate developer on a journey to explore the depths of the coding.
+## 🔥 My Stack
 
-Here are some ideas to get you started:
+- 💻 **Languages**: JavaScript, Python, R, Java, HTML/CSS
+- 🚀 **Frameworks**: React, Express.js
+- 📦 **Tools**: Git, Webpack, VS Code,
+- - ☁️ **Cloud Services**: AWS (S3, Lambda, EC2, Cognito, DynamoDB)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 What I'm Up To
+
+- 🚧 Making fun projects!
+-  🎉 FitXpress App for fitness users to track body metrics, health, and exercise info and make weekly workout plans!
+- 📚 Learning something new every day, because knowledge is power, right?
+
+## 🚀 Achievements Unlocked
+
+- 🎉 Successfully launched several portfolio websites.
+- 🎉 MBTA Transit App (MBTAXpress)
+## 💬 Let's Connect
+
+- 📫 Reach me at: contact@jbailes.com
+- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/jbailes01/)
+- 🌐 Check out my website: [jbailes.com](https://jbailes.com)
+
+## ⚡ Let's Collaborate
+
+- 👯 I'm always open to collaboration on innovative projects.
+- 🤝 Let's build something awesome together!
+
+Cheers to coding, coffee, and creating! 🚀
+`

@@ -1,4 +1,4 @@
-# Hey there, fellow coder! 👋
+# Hey there! 👋
 
 I'm Jake, a passionate developer on a journey to explore the depths of the coding.
 ## 🔥 My Stack

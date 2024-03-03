@@ -6,7 +6,7 @@ I'm Jake, a passionate developer on a journey to explore the depths of the codin
 - 💻 **Languages**: JavaScript, Python, R, Java, HTML/CSS
 - 🚀 **Frameworks**: React, Express.js
 - 📦 **Tools**: Git, Webpack, VS Code,
-- - ☁️ **Cloud Services**: AWS (S3, Lambda, EC2, Cognito, DynamoDB)
+- ☁️ **Cloud Services**: AWS (S3, Lambda, EC2, Cognito, DynamoDB)
 
 ## 🌱 What I'm Up To
 

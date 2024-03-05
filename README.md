@@ -29,5 +29,5 @@ I'm Jake, a passionate developer on a journey to explore the depths of the codin
 - 👯 I'm always open to collaboration on innovative projects.
 - 🤝 Let's build something awesome together!
 
-Cheers to coding, coffee, and creating! 🚀
+Cheers to coding and creating! 🚀
 `

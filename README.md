@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-I'm Jake, a passionate developer on a journey to explore the depths of the coding.
+whats up!
 ## 🔥 My Stack
 
 - 💻 **Languages**: JavaScript, Python, R, Java, HTML/CSS

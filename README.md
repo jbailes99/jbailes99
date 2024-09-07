@@ -12,12 +12,8 @@ whats up!
 
 - 🚧 Making fun projects!
 -  🎉 FitXpress App for fitness users to track body metrics, health, and exercise info and make weekly workout plans!
-- 📚 Learning something new every day, because knowledge is power, right?
+- 📚 Always learning 
 
-## 🚀 Achievements Unlocked
-
-- 🎉 Successfully launched several portfolio websites.
-- 🎉 MBTA Transit App (MBTAXpress)
 ## 💬 Let's Connect
 
 - 📫 Reach me at: contact@jbailes.com

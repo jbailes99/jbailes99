@@ -4,14 +4,13 @@ whats up!
 ## 🔥 My Stack
 
 - 💻 **Languages**: JavaScript, Python, R, Java, HTML/CSS
-- 🚀 **Frameworks**: React, Express.js
-- 📦 **Tools**: Git, Webpack, VS Code
-- ☁️ **Cloud Services**: AWS (S3, Lambda, EC2, Cognito, DynamoDB, Amplify)
+- 🚀 **Frameworks**: React/Next.js, Express.js
+- ☁️ **Cloud Services**: AWS (S3, Lambda, EC2, Cognito, DynamoDB, Amplify, CloudFront, CloudWatch, IAM)
 
 ## 🌱 What I'm Up To
 
 - 🚧 Making fun projects!
--  🎉 FitXpress App for fitness users to track body metrics, health, and exercise info and make weekly workout plans!
+-  🎉 FitXpress App for fitness users to track body metrics, health, and exercise info and make weekly workout plans! (https://fitxpress.app)
 - 📚 Always learning 
 
 ## 💬 Let's Connect
